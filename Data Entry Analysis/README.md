@@ -20,3 +20,4 @@
 
 
 * The table can be structured as above. The important columns of the table are listed above.
+* We can list the station name where the data is collected , and provide the units of the attributes in the columns in the table.
